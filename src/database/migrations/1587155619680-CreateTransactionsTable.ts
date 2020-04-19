@@ -24,7 +24,7 @@ export default class CreateTransactionsTable1587155619680
           },
           {
             name: 'value',
-            type: 'numeric',
+            type: 'integer',
           },
           {
             name: 'category_id',
